@@ -1,0 +1,11 @@
+#bas, #haut {
+position: absolute;
+font-size: 750px;
+color: brown;
+}
+#haut{
+    color: aquamarine;
+    position: absolute;
+    opacity: 0.4;
+}
+

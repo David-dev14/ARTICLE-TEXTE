@@ -1,0 +1,19 @@
+
+body {
+    margin: 0;
+}
+div{
+    position: relative;
+    width: 200px;
+    height: 100px;
+}
+
+#div1 {
+    background-color: brown;
+}
+
+#div2 {
+    background-color: lime;
+    left: 200px;
+    top: 100px;
+}
